@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Sebyeok
 - Front-end Developer
 - React, React Native
 - Web, Cross Platform
