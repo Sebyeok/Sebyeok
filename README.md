@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 2023.01 ~ 2023.06 GASOMANN, PROJECTBUILDUP
+- 2023.07 INTERNSHIP, LG SOFT INDIA(LGSI)
+- 2023.08 ~ BeamWorks Inc.
