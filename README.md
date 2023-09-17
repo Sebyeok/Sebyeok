@@ -11,7 +11,7 @@
 - 2023.08 ~ | 응급프로 [React Native, Typescript]
 
 ### I worked in
-- 2023.01 ~ 2023.06 GASOMANN, PROJECTBUILDUP
+- 2023.01 ~ 2023.06 PROJECTBUILDUP
 - 2023.07 INTERNSHIP, LG SOFT INDIA(LGSI)
 
 ### I'm working in
