@@ -1,4 +1,14 @@
 ### Hi there 👋
+- Front-end Developer
+- React, React Native
+- Web, Cross Platform
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+
+- 2023.01 ~ 2023.06 GASOMANN, PROJECTBUILDUP
+- 2023.07 INTERNSHIP, LG SOFT INDIA(LGSI)
+- 2023.08 ~ BeamWorks Inc.
 
 <!--
 **Sebyeok/Sebyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 2023.01 ~ 2023.06 GASOMANN, PROJECTBUILDUP
-- 2023.07 INTERNSHIP, LG SOFT INDIA(LGSI)
-- 2023.08 ~ BeamWorks Inc.
