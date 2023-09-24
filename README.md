@@ -11,7 +11,7 @@
 - 2023.08 ~ | 응급프로 [React Native, Typescript]
 
 ### I worked in
-- 2023.01 ~ 2023.06 PROJECTBUILDUP [Dev Lead]
+- 2023.01 ~ 2023.06 PROJECTBUILDUP [Dev Lead | Frontend]
 - 2023.07 LG SOFT INDIA(LGSI) [Intern]
 
 ### I'm working in
