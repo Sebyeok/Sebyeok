@@ -12,7 +12,7 @@
 - 2023.10 ~ | 응급이지 [React Native, Typescript]
 
 ### I worked in
-- 2023.01 ~ 2023.06 PROJECTBUILDUP [Dev Lead | Frontend]
+- 2023.01 ~ 2023.06 PROJECTBUILDUP(학생 창업팀) [Dev Lead | Frontend]
 - 2023.07 LG SOFT INDIA(LGSI) [Intern]
 
 ### I'm working in
