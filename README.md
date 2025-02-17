@@ -5,8 +5,8 @@
 
 ### Project
 - 2023.01 ~ 2023.06 | GASOMANN [React Native, Javascript]
-- 2023.03 ~ 2023.06 | Schooloud (Private Cloud Service using Openstack) [React, Javascript]
-- 2023.04 | GASOMANN Landing Page [React, Javascript]
+- 2023.03 ~ 2023.06 | [Schooloud (Private Cloud Service using Openstack)](https://github.com/schooloud/schooloud_front-end) [React, Javascript]
+- 2023.04 | [GASOMANN Landing Page](https://sebyeok.github.io/gasomann_landing_deploy/) [React, Javascript]
 - 2023.07 | Vision AI Client Side Inferencing, Server Side Inferencing Web [React, Javascript]
 - 2023.08 ~ | 응급프로 [React Native, Typescript]
 - 2023.10 ~ | 응급이지 [React Native, Typescript]
