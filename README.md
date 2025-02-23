@@ -13,7 +13,7 @@
 - 2024.03 ~ 2024.04 | Alexandria-Pro [React, Typescript]
 - 2024.06 ~ 2024.08 | CadAI-M [React, Typescript]
 - 2024.09 | [Classendo Landing Page](https://service.classendo.ai) [React, Next.js, TypeScript]
-- 2024.10 | Pinger [React, TypeScript]
+- 2024.10 | [Pinger](https://youtube.com/shorts/l9lrFL6ea7A) [React, TypeScript]
 - 2024.09 ~ 2025.02 | 응급실 종합상황판 [React, Typescript]
 
 ### I worked in
