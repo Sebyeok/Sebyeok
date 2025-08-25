@@ -14,7 +14,7 @@
 - 2024.06 ~ 2024.08 | CadAI-M [React, Typescript]
 - 2024.09 | [Classendo Landing Page](https://service.classendo.ai) [React, Next.js, TypeScript]
 - 2024.10 | [Pinger](https://youtube.com/shorts/l9lrFL6ea7A) [React, TypeScript]
-- 2024.09 ~ 2025.07 | 응급실 종합상황판 [React, Typescript]
+- 2024.09 ~ 2025.07 | [응급실 종합상황판](https://mediboard.nemc.or.kr/) [React, Typescript]
 
 ### I worked in
 - 2023.01 ~ 2023.06 PROJECTBUILDUP(학생 창업팀) [Dev Lead | Frontend]
